@@ -1,0 +1,38 @@
+{
+    "enemy_left_princess": [
+        1432,
+        180,
+        60,
+        7
+    ],
+    "enemy_right_princess": [
+        1728,
+        180,
+        59,
+        7
+    ],
+    "enemy_king": [
+        1573,
+        63,
+        76,
+        9
+    ],
+    "ally_left_princess": [
+        1433,
+        658,
+        57,
+        5
+    ],
+    "ally_right_princess": [
+        1730,
+        658,
+        57,
+        6
+    ],
+    "ally_king": [
+        1574,
+        794,
+        76,
+        5
+    ]
+}
