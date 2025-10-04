@@ -32,7 +32,7 @@
 ![roboflow-tutorial](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1uNmtiaTAzamVvNnQwc2k3NDQzOXhzcmhxc2prZTBzM3U3YWY5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1KLeC2gw8pimdhH61C/giphy.gif)
 2. Clone the repo
    ```sh
-   git clone https://github.com/krazyness/CRBot-public.git
+   git clone https://github.com/NEEEEDA/ClashRoyale.git
    ```
 3. Set up your environment variables:
    - Edit `.env` and replace `your_roboflow_api_key_here` with your actual Roboflow private API key
@@ -86,4 +86,5 @@
 ![Demo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFtZmh1eG10amdidGhuMXBlb3dyaWZ3MjB5a2d6ZXluYXN6MTY0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SFDKIvtoRL1Og4S7fn/giphy.gif)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
