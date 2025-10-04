@@ -98,12 +98,8 @@ A Python-based Clash Royale AI bot that learns and improves through gameplay. Th
    git clone https://github.com/krazyness/CRBot-public.git
    ```
 3. Set up your environment variables:
-   - Copy `.env.example` to `.env`
    - Edit `.env` and replace `your_roboflow_api_key_here` with your actual Roboflow private API key
-   ```bash
-   # Copy the example file
-   cp .env.example .env
-   
+   ```bash 
    # Edit .env and add your API key
    ROBOFLOW_API_KEY=your_actual_api_key_here
    ```
@@ -214,3 +210,4 @@ Project Link: [https://github.com/krazyness/CRBot-public](https://github.com/kra
 [Roboflow-url]: https://www.roboflow.com/
 [Python.org]: https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&link=https%3A%2F%2Fwww.python.org%2F
 [Python-url]: https://www.python.org/
+
